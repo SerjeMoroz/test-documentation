@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12225</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Database+generator">
+  <Table ss:ExpandedColumnCount="19" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="110.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="137.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="135.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="110.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="82.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="109.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="160.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="117"/>
+   <Column ss:AutoFitWidth="0" ss:Width="119.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="58.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="81.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="76.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="214.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="85.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Номер</Data></Cell>
+    <Cell><Data ss:Type="String">Проект</Data></Cell>
+    <Cell><Data ss:Type="String">Инициатор</Data></Cell>
+    <Cell><Data ss:Type="String">Ответственный</Data></Cell>
+    <Cell><Data ss:Type="String">Приоритет</Data></Cell>
+    <Cell><Data ss:Type="String">Влияние</Data></Cell>
+    <Cell><Data ss:Type="String">Воспроизводимость</Data></Cell>
+    <Cell><Data ss:Type="String">Версия продукта</Data></Cell>
+    <Cell><Data ss:Type="String">Категория</Data></Cell>
+    <Cell><Data ss:Type="String">Создан</Data></Cell>
+    <Cell><Data ss:Type="String">Операционная система</Data></Cell>
+    <Cell><Data ss:Type="String">Версия ОС</Data></Cell>
+    <Cell><Data ss:Type="String">Платформа</Data></Cell>
+    <Cell><Data ss:Type="String">Видимость</Data></Cell>
+    <Cell><Data ss:Type="String">Изменена</Data></Cell>
+    <Cell><Data ss:Type="String">Тема</Data></Cell>
+    <Cell><Data ss:Type="String">Состояние</Data></Cell>
+    <Cell><Data ss:Type="String">Решение</Data></Cell>
+    <Cell><Data ss:Type="String">Решена в версии</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">неотложный</Data></Cell>
+    <Cell><Data ss:Type="String">блокирующее</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Negative functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2023-01-19</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;Patient count&quot; со спецсимволами</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">неотложный</Data></Cell>
+    <Cell><Data ss:Type="String">блокирующее</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Positive Functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Таблица &quot;Worklist count&quot; с макс.кол-вом.</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">неотложный</Data></Cell>
+    <Cell><Data ss:Type="String">блокирующее</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Positive Functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Таблица &quot;Patient count&quot; с макс.кол-вом.</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">неотложный</Data></Cell>
+    <Cell><Data ss:Type="String">блокирующее</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Negative functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;Add patient&quot; с макс.+1 символом</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">высокий</Data></Cell>
+    <Cell><Data ss:Type="String">критическое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Smoke test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-25</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Запуск Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">срочный</Data></Cell>
+    <Cell><Data ss:Type="String">критическое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Справка</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Повторный клик &quot;вызвать справку&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">срочный</Data></Cell>
+    <Cell><Data ss:Type="String">критическое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Positive Functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-25</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">Ошибка &quot;connect&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">высокий</Data></Cell>
+    <Cell><Data ss:Type="String">большое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Positive Functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Граничные значения &quot;Ae title&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">большое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Справка</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Сообщение &quot;Вызвать справку&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">высокий</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Positive Functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-25</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Обозначение кнопки &quot;Delete first&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Negative functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Сообщение &quot;Worklist added&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Negative functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-25</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Сообщение о создании &quot;Worklist added&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">подтверждена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Negative functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-25</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Отрицательное значение &quot;patient count&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">высокий</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Positive Functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-25</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-27</Data></Cell>
+    <Cell><Data ss:Type="String">Обозначение кнопки &quot;Add patient&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Справка</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">Сообщение об ошибке &quot;CTRL+O&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Negative functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">&quot;Worklist count&quot; со спецсимволами</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Справка</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">Изображение при клике &quot;о программе&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">Database generator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">administrator</Data></Cell>
+    <Cell><Data ss:Type="String">обычный</Data></Cell>
+    <Cell><Data ss:Type="String">малое</Data></Cell>
+    <Cell><Data ss:Type="String">всегда</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Negative functional test</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">10/64 pro</Data></Cell>
+    <Cell><Data ss:Type="String">22H2</Data></Cell>
+    <Cell><Data ss:Type="String">Windows</Data></Cell>
+    <Cell><Data ss:Type="String">публичная</Data></Cell>
+    <Cell><Data ss:Type="String">2022-12-26</Data></Cell>
+    <Cell><Data ss:Type="String">Спецсимволы в поле ввода &quot;Ae title&quot;</Data></Cell>
+    <Cell><Data ss:Type="String">назначена</Data></Cell>
+    <Cell><Data ss:Type="String">открыта</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
